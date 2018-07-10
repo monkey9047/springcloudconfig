@@ -6,6 +6,6 @@ spring:
       server:
         git:
           #basedir:
-          uri: https://github.com/xiongyongjie/springcloudproject.git
+          uri: https://github.com/monkey9047/springcloudconfig.git
 server:
   port: 9001
